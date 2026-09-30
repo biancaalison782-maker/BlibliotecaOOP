@@ -1,0 +1,5 @@
+C:\Users\bianca.ajllusco\source\repos\BibliotecaPOO\BibliotecaPOO\obj\Debug\net8.0\BibliotecaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bianca.ajllusco\source\repos\BibliotecaPOO\BibliotecaPOO\obj\Debug\net8.0\BibliotecaPOO.AssemblyInfoInputs.cache
+C:\Users\bianca.ajllusco\source\repos\BibliotecaPOO\BibliotecaPOO\obj\Debug\net8.0\BibliotecaPOO.AssemblyInfo.cs
+C:\Users\bianca.ajllusco\source\repos\BibliotecaPOO\BibliotecaPOO\obj\Debug\net8.0\BibliotecaPOO.csproj.CoreCompileInputs.cache
+C:\Users\bianca.ajllusco\source\repos\BibliotecaPOO\BibliotecaPOO\obj\Debug\net8.0\BibliotecaPOO.sourcelink.json
