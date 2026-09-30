@@ -17,7 +17,7 @@ namespace BibliotecaPOO.Models
 
         public List<string> Assuntos { get; set; }
 
-        public Material(string titulo,  List<string> assuntos, 
+        public Material(string titulo,  List<string> assuntos, string? autor = null)
         {
             this.titulo = titulo;
             this.autor = autor;
@@ -27,6 +27,7 @@ namespace BibliotecaPOO.Models
         public void mostrarInformacoes()
         {
             Console.WriteLine($"Título: {this.titulo}");
+
             if (!string.IsNullOrWhiteSpace(autor))
             {
                 Console.WriteLine($"Autor: {autor}");
@@ -34,6 +35,7 @@ namespace BibliotecaPOO.Models
             }
 
             Console.WriteLine($"Assuntos: {string.Join(", ", assuntos)}");
+            Console.WriteLine($"--------------------------");
         }
     }
 }
